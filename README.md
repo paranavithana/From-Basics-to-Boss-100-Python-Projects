@@ -29,7 +29,6 @@ Each folder contains:
 | 3  | Maths Quiz Game          | Generate quiz and have fun            | ✅ Done |
 | 4  | Password Vault           | Save and store passwords              | ✅ Done |
 | 5  | Flashcard Quiz App       | Ask saved quiz                        | ✅ Done |
-| 6  | Flashcard Quiz App       | Ask saved quiz                        | ✅ Done |
 | ...| ...                      | ...                                   | 🔄 In Progress |
 
 > Status: ✅ Done | 🔄 In Progress | ⏳ Planned
