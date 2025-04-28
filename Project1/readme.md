@@ -10,4 +10,6 @@ This is a basic Python calculator that performs simple math operations.
 
 The program **stores** each calculation automatically and shows them when needed.
 
+---
+
 ✨ *A quick and easy tool for practicing Python basics!*
