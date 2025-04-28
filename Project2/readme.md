@@ -12,5 +12,6 @@ This is a basic Python unit converter that allows quick and easy conversions bet
 You can choose the type of conversion you want by following simple on-screen instructions.  
 The program automatically handles invalid inputs and helps you stay on track.
 
+---
 
 ✨ *A beginner-friendly tool to practice Python loops, conditionals, and exception handling!*
