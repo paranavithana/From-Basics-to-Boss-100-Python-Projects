@@ -25,10 +25,10 @@ Each folder contains:
 | #  | Project Name             | Description                           | Status |
 |----|--------------------------|---------------------------------------|--------|
 | 1  | Calculator               | A basic CLI calculator app            | ✅ Done |
-| 2  | Unit converter           | Convert km-mi,etc                     | ✅ Done |
+| 2  | Unit converter           | Convert km,mi,inches and etc          | ✅ Done |
 | 3  | Maths Quiz Game          | Generate quiz and have fun            | ✅ Done |
-| 4  | Password Vault           | Save and store passwords              | ✅ Done |
-| 5  | Flashcard Quiz App       | Ask saved quiz                        | ✅ Done |
+| 4  | Password Vault           | Simple Python Password Vault          | ✅ Done |
+| 5  | Flashcard Quiz App       | Simple Python Text-File Quiz          | ✅ Done |
 | ...| ...                      | ...                                   | 🔄 In Progress |
 
 > Status: ✅ Done | 🔄 In Progress | ⏳ Planned
