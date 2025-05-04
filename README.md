@@ -29,6 +29,7 @@ Each folder contains:
 | 3  | Maths Quiz Game          | Generate quiz and have fun            | ✅ Done |
 | 4  | Password Vault           | Simple Python Password Vault          | ✅ Done |
 | 5  | Flashcard Quiz App       | Simple Python Text-File Quiz          | ✅ Done |
+| 6  | Expense Tracker          | view, and analyze your  expenses      | ✅ Done |
 | ...| ...                      | ...                                   | 🔄 In Progress |
 
 > Status: ✅ Done | 🔄 In Progress | ⏳ Planned
