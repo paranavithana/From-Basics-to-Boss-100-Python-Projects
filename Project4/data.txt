@@ -1,0 +1,7 @@
+['eeeeeeee', 'e', 'e']
+['matheesha', 'pahansara', 'paranavithana']
+['wwwwwww', 'ww', 'wwwwww']
+['wwww', 'ww', 'www']
+['gmail', 'Matheesha', 'matheesha1234']
+['adeepa', 'lakshan', 'paran']
+['anula', 'vithanrana', 'kg']
