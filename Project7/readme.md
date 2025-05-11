@@ -16,17 +16,3 @@ A simple and lightweight command-line journal app written in Python that helps y
 - Each day's entries are stored in files named like `YYYY.MM.DD_entry.txt`
 - A master log (`datesdata.txt`) stores the list of all journal days
 
-## 🚀 Getting Started
-
-### Requirements
-
-- Python 3.x
-
-### Run the App
-
-1. Download or clone the repository
-2. Open your terminal
-3. Run the app with:
-
-```bash
-python your_script_name.py
