@@ -1,0 +1,4 @@
+I am going to school,happy,
+I am drinking a Tea,hot,
+I spill my tea,sader,er,
+I went to job interview,normal,
