@@ -1,0 +1,7 @@
+school,medium,2025.05.14,
+wedding,medium,2025.05.28,done,
+university apply,high,2025.05.30,done,
+dansal,low,2025.05.12,done,
+go to jail,high,2048.05.30,
+university apply,low,2025.05.30,done,
+job interview,high,2025.05.15,
