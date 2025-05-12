@@ -31,6 +31,7 @@ Each folder contains:
 | 5  | Flashcard Quiz App       | Simple Python Text-File Quiz          | ✅ Done |
 | 6  | Expense Tracker          | view, and analyze your  expenses      | ✅ Done |
 | 7  | Daily Journal App        | Simple Python Text-Based Diary        | ✅ Done |
+| 8  | Task Manager             | Ability to manage daily tasks         | ✅ Done |
 | ...| ...                      | ...                                   | 🔄 In Progress |
 
 > Status: ✅ Done | 🔄 In Progress | ⏳ Planned
