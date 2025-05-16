@@ -1,11 +1,11 @@
-# 🐍 100 Python Projects – My Learning Journey
+#  100 Python Projects – My Learning Journey
 
 Welcome! This repository contains a collection of **100 Python projects** I'm building to improve my coding skills. These projects start from basic concepts and progress to intermediate-level applications.
 
 Each project is simple, practical, and built with a clear learning goal in mind.
 
 
-## 🔥 Why This?
+##  Why This?
 I believe in learning by doing. By completing 100 projects, I aim to:
 - Master Python syntax and logic
 - Practice problem-solving
@@ -13,12 +13,12 @@ I believe in learning by doing. By completing 100 projects, I aim to:
 - Stay consistent and level up day by day
 
 
-## 📁 Project Structure
+##  Project Structure
 
 Each folder contains:
-- ✅ Source code (`.py` files)
-- 📄 A short README (optional) explaining what it does
-- 🧠 Notes or challenges (if any)
+-  Source code (`.py` files)
+-  A short README (optional) explaining what it does
+-  Notes or challenges (if any)
 
 ## 📊 Project List
 
