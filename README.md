@@ -32,6 +32,7 @@ Each folder contains:
 | 6  | Expense Tracker          | view, and analyze your  expenses      | ✅ Done |
 | 7  | Daily Journal App        | Simple Python Text-Based Diary        | ✅ Done |
 | 8  | Task Manager             | Ability to manage daily tasks         | ✅ Done |
+| 9  | Contact book             | Save,delete and edit                  | ✅ Done |
 | ...| ...                      | ...                                   | 🔄 In Progress |
 
 > Status: ✅ Done | 🔄 In Progress | ⏳ Planned
