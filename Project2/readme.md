@@ -2,11 +2,11 @@
 
 This is a basic Python unit converter that allows quick and easy conversions between common measurements.
 
-## ✏ How to Use
+##  How to Use
 
 -  Convert **Kilometers and Miles** easily — both directions!
 -  Convert **Centimeters and Inches** quickly!
-- ⚖ Convert **Kilograms and Pounds** without hassle!
+-  Convert **Kilograms and Pounds** without hassle!
 -  Type `end` at any time to stop the program.
 
 You can choose the type of conversion you want by following simple on-screen instructions.  
