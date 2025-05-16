@@ -2,7 +2,7 @@
 
 This is a basic Python calculator that performs simple math operations.
 
-## ✏ How to Use
+##  How to Use
 
 -  Enter calculations like `12+5` and see the result instantly.
 -  Type `history` to view all previous calculations from the current session.
