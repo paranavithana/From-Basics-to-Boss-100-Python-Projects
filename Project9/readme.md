@@ -1,4 +1,4 @@
-#  Contact Book (Project 9)
+#  Contact Book
 
 A simple terminal-based Contact Book made with Python.
 
