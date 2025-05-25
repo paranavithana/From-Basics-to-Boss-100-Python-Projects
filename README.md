@@ -33,6 +33,7 @@ Each folder contains:
 | 7  | Daily Journal App        | Simple Python Text-Based Diary        | ✅ Done |
 | 8  | Task Manager             | Ability to manage daily tasks         | ✅ Done |
 | 9  | Contact book             | Save,delete and edit                  | ✅ Done |
+| 10 | Password Strength Analyzer   |                                  analyze and create passwords | ✅ Done |
 | ...| ...                      | ...                                   | 🔄 In Progress |
 
 > Status: ✅ Done | 🔄 In Progress | ⏳ Planned
