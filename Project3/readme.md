@@ -1,4 +1,4 @@
-#  Simple Python Math Quiz
+##  Simple Python Math Quiz
 
 This is a basic Python math quiz game that challenges users with random math problems.
 
