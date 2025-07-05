@@ -1,4 +1,4 @@
-#  Expense Tracker CLI App
+##  Expense Tracker CLI App
 
 A simple command-line Python app to help you record, view, and analyze your daily and monthly expenses with style. Ideal for personal budgeting and finance tracking.
 
