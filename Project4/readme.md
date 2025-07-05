@@ -1,4 +1,4 @@
-#  Simple Python Password Vault
+##  Simple Python Password Vault
 
 This is a basic Python password vault that helps you store and retrieve your web login credentials safely in a file.
 
