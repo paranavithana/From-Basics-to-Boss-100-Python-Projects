@@ -1,4 +1,4 @@
-#  Daily Journal CLI App
+##  Daily Journal CLI App
 
 A simple and lightweight command-line journal app written in Python that helps you track your daily thoughts, activities, and mood. Designed for self-reflection, mental well-being, and habit tracking — all saved locally.
 
