@@ -1,4 +1,4 @@
-#  Simple Python Text-File Quiz
+##  Simple Python Text-File Quiz
 
 This is a basic Python quiz program that reads questions and answers from a text file and quizzes the user randomly.
 
