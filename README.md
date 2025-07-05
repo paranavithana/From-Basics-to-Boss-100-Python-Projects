@@ -24,16 +24,16 @@ Each folder contains:
 
 | #  | Project Name             | Description                           | Status |
 |----|--------------------------|---------------------------------------|--------|
-| 1  | Calculator               | A basic CLI calculator app            |  Done |
-| 2  | Unit converter           | Convert km,mi,inches and etc          |  Done |
-| 3  | Maths Quiz Game          | Generate quiz and have fun            |  Done |
-| 4  | Password Vault           | Simple Python Password Vault          |  Done |
-| 5  | Flashcard Quiz App       | Simple Python Text-File Quiz          |  Done |
-| 6  | Expense Tracker          | view, and analyze your  expenses      |  Done |
-| 7  | Daily Journal App        | Simple Python Text-Based Diary        |  Done |
-| 8  | Task Manager             | Ability to manage daily tasks         |  Done |
-| 9  | Contact book             | Save,delete and edit                  |  Done |
-| 10 | Password Strength Analyzer   |                                  analyze and create passwords |  Done |
+| 1  | Calculator               | A basic CLI calculator app            | ✅ Done |
+| 2  | Unit converter           | Convert km,mi,inches and etc          | ✅ Done |
+| 3  | Maths Quiz Game          | Generate quiz and have fun            | ✅ Done |
+| 4  | Password Vault           | Simple Python Password Vault          | ✅ Done |
+| 5  | Flashcard Quiz App       | Simple Python Text-File Quiz          | ✅ Done |
+| 6  | Expense Tracker          | view, and analyze your  expenses      | ✅ Done |
+| 7  | Daily Journal App        | Simple Python Text-Based Diary        | ✅ Done |
+| 8  | Task Manager             | Ability to manage daily tasks         | ✅ Done |
+| 9  | Contact book             | Save,delete and edit                  | ✅ Done |
+| 10 | Password Strength Analyzer   |                                  analyze and create passwords | ✅ Done |
 | ...| ...                      | ...                                   |  In Progress |
 
  
