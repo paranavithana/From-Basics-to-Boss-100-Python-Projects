@@ -10,6 +10,5 @@ A simple terminal-based Contact Book made with Python.
 - Delete individual contacts
 - All data stored in a `.txt` file
 
-###  Built With
-- Python (Standard Library)
+
 
