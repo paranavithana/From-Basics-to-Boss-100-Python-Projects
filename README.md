@@ -1,4 +1,4 @@
-#  100 Python Projects – My Learning Journey
+##  100 Python Projects – My Learning Journey
 
 Welcome! This repository contains a collection of **100 Python projects** I'm building to improve my coding skills. These projects start from basic concepts and progress to intermediate-level applications.
 
